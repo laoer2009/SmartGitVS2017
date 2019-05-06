@@ -1,0 +1,10 @@
+E:\VS2017\VS2017\小团队构建大网站\Quartz\bin\Debug\Quartz.exe.config
+E:\VS2017\VS2017\小团队构建大网站\Quartz\bin\Debug\Quartz.exe
+E:\VS2017\VS2017\小团队构建大网站\Quartz\bin\Debug\Quartz.pdb
+E:\VS2017\VS2017\小团队构建大网站\Quartz\bin\Debug\Quartz.dll
+E:\VS2017\VS2017\小团队构建大网站\Quartz\bin\Debug\Quartz.xml
+E:\VS2017\VS2017\小团队构建大网站\Quartz\obj\Debug\Quartz.csprojAssemblyReference.cache
+E:\VS2017\VS2017\小团队构建大网站\Quartz\obj\Debug\Quartz.csproj.CoreCompileInputs.cache
+E:\VS2017\VS2017\小团队构建大网站\Quartz\obj\Debug\Quartz.csproj.CopyComplete
+E:\VS2017\VS2017\小团队构建大网站\Quartz\obj\Debug\Quartz.exe
+E:\VS2017\VS2017\小团队构建大网站\Quartz\obj\Debug\Quartz.pdb

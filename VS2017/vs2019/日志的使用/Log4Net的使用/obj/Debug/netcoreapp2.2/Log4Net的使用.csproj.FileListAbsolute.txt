@@ -1,0 +1,13 @@
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\bin\Debug\netcoreapp2.2\Log4Net的使用.deps.json
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\bin\Debug\netcoreapp2.2\Log4Net的使用.runtimeconfig.json
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\bin\Debug\netcoreapp2.2\Log4Net的使用.runtimeconfig.dev.json
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\bin\Debug\netcoreapp2.2\Log4Net的使用.dll
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\bin\Debug\netcoreapp2.2\Log4Net的使用.pdb
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\obj\Debug\netcoreapp2.2\Log4Net的使用.csproj.CoreCompileInputs.cache
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\obj\Debug\netcoreapp2.2\Log4Net的使用.AssemblyInfoInputs.cache
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\obj\Debug\netcoreapp2.2\Log4Net的使用.AssemblyInfo.cs
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\obj\Debug\netcoreapp2.2\Log4Net的使用.dll
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\obj\Debug\netcoreapp2.2\Log4Net的使用.pdb
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\bin\Debug\netcoreapp2.2\Config\log4net.dll
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\bin\Debug\netcoreapp2.2\Config\log4netTwo.config
+E:\VS2017\vs2019\日志的使用\Log4Net的使用\obj\Debug\netcoreapp2.2\Log4Net的使用.csprojAssemblyReference.cache

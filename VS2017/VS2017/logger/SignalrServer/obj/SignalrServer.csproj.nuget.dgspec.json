@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VS2017\\VS2017\\logger\\SignalrServer\\SignalrServer.csproj": {}
+  },
+  "projects": {
+    "E:\\VS2017\\VS2017\\logger\\SignalrServer\\SignalrServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS2017\\VS2017\\logger\\SignalrServer\\SignalrServer.csproj",
+        "projectName": "SignalrServer",
+        "projectPath": "E:\\VS2017\\VS2017\\logger\\SignalrServer\\SignalrServer.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "E:\\VS2017\\VS2017\\logger\\SignalrServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

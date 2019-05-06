@@ -1,0 +1,11 @@
+E:\VS2017\VS2017\logger\LoggerTwo\bin\Debug\netcoreapp2.0\LoggerTwo.deps.json
+E:\VS2017\VS2017\logger\LoggerTwo\bin\Debug\netcoreapp2.0\LoggerTwo.runtimeconfig.json
+E:\VS2017\VS2017\logger\LoggerTwo\bin\Debug\netcoreapp2.0\LoggerTwo.runtimeconfig.dev.json
+E:\VS2017\VS2017\logger\LoggerTwo\bin\Debug\netcoreapp2.0\LoggerTwo.dll
+E:\VS2017\VS2017\logger\LoggerTwo\bin\Debug\netcoreapp2.0\LoggerTwo.pdb
+E:\VS2017\VS2017\logger\LoggerTwo\obj\Debug\netcoreapp2.0\LoggerTwo.csproj.CoreCompileInputs.cache
+E:\VS2017\VS2017\logger\LoggerTwo\obj\Debug\netcoreapp2.0\LoggerTwo.AssemblyInfoInputs.cache
+E:\VS2017\VS2017\logger\LoggerTwo\obj\Debug\netcoreapp2.0\LoggerTwo.AssemblyInfo.cs
+E:\VS2017\VS2017\logger\LoggerTwo\obj\Debug\netcoreapp2.0\LoggerTwo.dll
+E:\VS2017\VS2017\logger\LoggerTwo\obj\Debug\netcoreapp2.0\LoggerTwo.pdb
+E:\VS2017\VS2017\logger\LoggerTwo\obj\Debug\netcoreapp2.0\LoggerTwo.csprojAssemblyReference.cache

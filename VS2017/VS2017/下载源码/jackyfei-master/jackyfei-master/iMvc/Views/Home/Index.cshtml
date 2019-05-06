@@ -1,0 +1,40 @@
+﻿@*@model iMvc.StudentClass
+
+    @{
+        ViewData["Title"] = "Index";
+    }
+
+    <h2>Index</h2>
+
+    <h4>Name:@Model.Name</h4>
+    <h4>Age:@Model.Age</h4>
+
+    <div>
+        @foreach (var s in Model.Students)
+        {
+            <span>Name:@s.Name</span>
+            <span>Age:@s.Age</span>
+        }
+
+    </div>*@
+
+
+@using Microsoft.Extensions.Options;
+@inject IOptionsSnapshot<iMvc.StudentClass> _stu;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<h4>Name:@_stu.Value.Name</h4>
+<h4>Age:@_stu.Value.Age</h4>
+
+<div>
+    @foreach (var s in _stu.Value.Students)
+    {
+        <span>Name:@s.Name</span>
+        <span>Age:@s.Age</span>
+    }
+
+</div>

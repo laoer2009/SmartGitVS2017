@@ -1,0 +1,12 @@
+2019-04-20 23:09:49.7329|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 DEBUG http://localhost:30707/  0 
+2019-04-20 23:09:49.7329|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:30707/   
+2019-04-20 23:09:51.0637|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 1524.7494ms 200  
+2019-04-20 23:09:52.7830|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method NLogger.Controllers.HomeController.Index (NLogger) with arguments ((null)) - ModelState is Valid 
+2019-04-20 23:09:52.8670|NLogger.Controllers.HomeController|INFO|普通信息日志----------- 
+2019-04-20 23:09:52.8939|NLogger.Controllers.HomeController|WARN|警告日志----------- 
+2019-04-20 23:09:52.9334|NLogger.Controllers.HomeController|WARN|Log日志------------------ 
+2019-04-20 23:09:52.9660|NLogger.Controllers.HomeController|ERROR|错误日志----------- 
+2019-04-20 23:09:52.9975|NLogger.Controllers.HomeController|FATAL|异常日志----------- 
+2019-04-20 23:10:11.5359|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|INFO|Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2019-04-20 23:10:13.6646|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action NLogger.Controllers.HomeController.Index (NLogger) in 21236.2534ms 
+2019-04-20 23:10:13.8282|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 24444.5502ms 200 text/html; charset=utf-8 

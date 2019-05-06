@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj": {}
+  },
+  "projects": {
+    "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj",
+        "projectName": "DomainEventExample",
+        "projectPath": "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\DAS\\NewSourceCode\\NewSourceCode\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

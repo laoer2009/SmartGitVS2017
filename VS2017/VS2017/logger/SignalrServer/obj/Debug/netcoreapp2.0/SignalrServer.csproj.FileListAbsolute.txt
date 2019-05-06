@@ -1,0 +1,8 @@
+E:\VS2017\VS2017\logger\SignalrServer\bin\Debug\netcoreapp2.0\SignalrServer.deps.json
+E:\VS2017\VS2017\logger\SignalrServer\bin\Debug\netcoreapp2.0\SignalrServer.runtimeconfig.json
+E:\VS2017\VS2017\logger\SignalrServer\bin\Debug\netcoreapp2.0\SignalrServer.runtimeconfig.dev.json
+E:\VS2017\VS2017\logger\SignalrServer\bin\Debug\netcoreapp2.0\SignalrServer.dll
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.0\SignalrServer.csprojAssemblyReference.cache
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.0\SignalrServer.csproj.CoreCompileInputs.cache
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.0\SignalrServer.AssemblyInfoInputs.cache
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.0\SignalrServer.AssemblyInfo.cs

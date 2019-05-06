@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "netcoretest1": {
+      "commandName": "Project"
+    }
+  }
+}

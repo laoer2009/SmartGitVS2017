@@ -1,0 +1,132 @@
+2019-04-20 22:46:41.4977 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config.  ---> System.ArgumentException: Unknown log level: Warning
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 22:46:41.5154 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config. Invalid XML?
+2019-04-20 22:46:41.6716 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config.  ---> System.ArgumentException: Unknown log level: Warning
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 22:46:41.6758 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config. Invalid XML?
+2019-04-20 22:53:51.6844 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config.  ---> System.ArgumentException: Unknown log level: Information
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 22:53:51.7127 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config. Invalid XML?
+2019-04-20 22:53:51.8470 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config.  ---> System.ArgumentException: Unknown log level: Information
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 22:53:51.8470 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config. Invalid XML?
+2019-04-20 22:55:50.4143 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config.  ---> System.ArgumentException: Unknown log level: Information
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 22:55:50.4452 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config. Invalid XML?
+2019-04-20 22:55:50.6897 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config.  ---> System.ArgumentException: Unknown log level: Information
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 22:55:50.6897 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config. Invalid XML?
+2019-04-20 23:02:40.1597 Info Message Template Auto Format enabled
+2019-04-20 23:02:40.5140 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:02:40.9364 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config.  ---> System.ArgumentException: Unknown log level: Warning
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 23:02:40.9479 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config. Invalid XML?
+2019-04-20 23:02:41.0637 Info Found 17 configuration items
+2019-04-20 23:02:41.1396 Info Configuration initialized.
+2019-04-20 23:02:41.1396 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.2.9511. Product version: 4.6.2.
+2019-04-20 23:02:41.1826 Info Configuring from an XML element in E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config...
+2019-04-20 23:02:41.1826 Info Message Template Auto Format enabled
+2019-04-20 23:02:41.1976 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:02:41.1976 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config.  ---> System.ArgumentException: Unknown log level: Warning
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 23:02:41.2439 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config. Invalid XML?
+2019-04-20 23:02:41.2439 Info Closing old configuration.
+2019-04-20 23:02:41.3115 Info Found 17 configuration items
+2019-04-20 23:03:28.8268 Info AppDomain Shutting down. Logger closing...
+2019-04-20 23:03:28.8451 Info Logger has been shut down.
+2019-04-20 23:05:00.4982 Info Message Template Auto Format enabled
+2019-04-20 23:05:00.9481 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:05:01.1177 Info Found 18 configuration items
+2019-04-20 23:05:01.1673 Info Configuration initialized.
+2019-04-20 23:05:01.1673 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.2.9511. Product version: 4.6.2.
+2019-04-20 23:05:01.2200 Info Configuring from an XML element in E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config...
+2019-04-20 23:05:01.2280 Info Message Template Auto Format enabled
+2019-04-20 23:05:01.2280 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:05:01.2461 Info Closing old configuration.
+2019-04-20 23:05:01.3682 Info Found 18 configuration items
+2019-04-20 23:07:11.7617 Info Message Template Auto Format enabled
+2019-04-20 23:07:12.0863 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:07:12.2482 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config.  ---> System.ArgumentException: Unknown log level: Information
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 23:07:12.2611 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\NLog.config. Invalid XML?
+2019-04-20 23:07:12.3252 Info Found 17 configuration items
+2019-04-20 23:07:12.3778 Info Configuration initialized.
+2019-04-20 23:07:12.3860 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.2.9511. Product version: 4.6.2.
+2019-04-20 23:07:12.4211 Info Configuring from an XML element in E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config...
+2019-04-20 23:07:12.4211 Info Message Template Auto Format enabled
+2019-04-20 23:07:12.4324 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:07:12.4324 Error Parsing configuration from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config.  ---> System.ArgumentException: Unknown log level: Information
+   at NLog.LogLevel.FromString(String levelName)
+   at NLog.Config.LoggingConfigurationParser.ParseRuleElement(ILoggingConfigurationElement loggerElement)
+   at NLog.Config.LoggingConfigurationParser.ParseRulesElement(ILoggingConfigurationElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.LoggingConfigurationParser.LoadConfig(ILoggingConfigurationElement nlogConfig, String basePath)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(ILoggingConfigurationElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-04-20 23:07:12.4621 Warn Failed loading config from E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config. Invalid XML?
+2019-04-20 23:07:12.4685 Info Closing old configuration.
+2019-04-20 23:07:12.5291 Info Found 17 configuration items
+2019-04-20 23:09:45.1814 Info Message Template Auto Format enabled
+2019-04-20 23:09:45.6992 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:09:45.8695 Info Found 18 configuration items
+2019-04-20 23:09:45.9653 Info Configuration initialized.
+2019-04-20 23:09:45.9653 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.2.9511. Product version: 4.6.2.
+2019-04-20 23:09:46.0072 Info Configuring from an XML element in E:\VS2017\VS2017\logger\NLogger\bin\Debug\netcoreapp2.0\nlog.config...
+2019-04-20 23:09:46.0120 Info Message Template Auto Format enabled
+2019-04-20 23:09:46.0120 Info Adding target FileTarget(Name=ownFile-web)
+2019-04-20 23:09:46.0283 Info Closing old configuration.
+2019-04-20 23:09:46.0944 Info Found 18 configuration items

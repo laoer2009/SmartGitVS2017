@@ -1,0 +1,12 @@
+E:\VS2017\VS2017\netcoretest\netcoreweb1
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=netcoreweb1
+--content-root=E:\VS2017\VS2017\netcoretest\netcoreweb1
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\Home\About.cshtml
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\Home\Contact.cshtml
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\Home\Index.cshtml
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\Shared\Error.cshtml
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\Shared\_Layout.cshtml
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\_ViewImports.cshtml
+--file=E:\VS2017\VS2017\netcoretest\netcoreweb1\Views\_ViewStart.cshtml

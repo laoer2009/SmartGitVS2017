@@ -1,0 +1,4 @@
+2019-01-27 23:21:50,150 [1] INFO  NETCorelog4net_laoer [(null)] - NETCorelog4net log
+2019-01-27 23:21:50,335 [1] INFO  NETCorelog4net_laoer [(null)] - test log
+2019-01-27 23:21:50,337 [1] ERROR NETCorelog4net_laoer [(null)] - error
+2019-01-27 23:21:50,338 [1] INFO  NETCorelog4net_laoer [(null)] - linezero

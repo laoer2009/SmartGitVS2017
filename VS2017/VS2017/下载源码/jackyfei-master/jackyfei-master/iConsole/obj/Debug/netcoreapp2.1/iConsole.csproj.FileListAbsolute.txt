@@ -1,0 +1,11 @@
+F:\github\jackyfei\iConsole\bin\Debug\netcoreapp2.1\iConsole.deps.json
+F:\github\jackyfei\iConsole\bin\Debug\netcoreapp2.1\iConsole.runtimeconfig.json
+F:\github\jackyfei\iConsole\bin\Debug\netcoreapp2.1\iConsole.runtimeconfig.dev.json
+F:\github\jackyfei\iConsole\bin\Debug\netcoreapp2.1\iConsole.dll
+F:\github\jackyfei\iConsole\bin\Debug\netcoreapp2.1\iConsole.pdb
+F:\github\jackyfei\iConsole\obj\Debug\netcoreapp2.1\iConsole.csprojAssemblyReference.cache
+F:\github\jackyfei\iConsole\obj\Debug\netcoreapp2.1\iConsole.csproj.CoreCompileInputs.cache
+F:\github\jackyfei\iConsole\obj\Debug\netcoreapp2.1\iConsole.AssemblyInfoInputs.cache
+F:\github\jackyfei\iConsole\obj\Debug\netcoreapp2.1\iConsole.AssemblyInfo.cs
+F:\github\jackyfei\iConsole\obj\Debug\netcoreapp2.1\iConsole.dll
+F:\github\jackyfei\iConsole\obj\Debug\netcoreapp2.1\iConsole.pdb

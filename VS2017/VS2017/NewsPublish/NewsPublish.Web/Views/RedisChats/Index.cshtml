@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/js/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+@using (Html.BeginForm("Index", "RedisChats", FormMethod.Post))
+{
+    <input id="UserId" value="chenk" name="UserId"/>
+    <input id="Chat" value="this is my first messageQuene info !"  name="Chat"/>
+    <input type="submit" value="submit" />
+}
+<label>PageInfo:</label>@ViewBag.BagInfo
+<label>MessageQuene:</label>@ViewBag.MessageQuene
+<label>Pop:</label>@ViewBag.Pop
+
+<br />
+内容：@ViewBag.aa
+</body>
+</html>
+

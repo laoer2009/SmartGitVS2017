@@ -1,0 +1,11 @@
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\bin\Debug\netcoreapp2.0\MiddleWareDemo.deps.json
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\bin\Debug\netcoreapp2.0\MiddleWareDemo.runtimeconfig.json
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\bin\Debug\netcoreapp2.0\MiddleWareDemo.runtimeconfig.dev.json
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\bin\Debug\netcoreapp2.0\MiddleWareDemo.dll
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\bin\Debug\netcoreapp2.0\MiddleWareDemo.pdb
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\obj\Debug\netcoreapp2.0\MiddleWareDemo.csproj.CoreCompileInputs.cache
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\obj\Debug\netcoreapp2.0\MiddleWareDemo.AssemblyInfoInputs.cache
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\obj\Debug\netcoreapp2.0\MiddleWareDemo.AssemblyInfo.cs
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\obj\Debug\netcoreapp2.0\MiddleWareDemo.dll
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\obj\Debug\netcoreapp2.0\MiddleWareDemo.pdb
+E:\VS2017\VS2017\MiddlWare\MiddleWareDemo\obj\Debug\netcoreapp2.0\MiddleWareDemo.csprojAssemblyReference.cache

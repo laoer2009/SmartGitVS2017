@@ -1,0 +1,8 @@
+E:\VS2017\VS2017\RPC\RPC调用\bin\Debug\netcoreapp2.0\RPC调用.deps.json
+E:\VS2017\VS2017\RPC\RPC调用\bin\Debug\netcoreapp2.0\RPC调用.runtimeconfig.json
+E:\VS2017\VS2017\RPC\RPC调用\bin\Debug\netcoreapp2.0\RPC调用.runtimeconfig.dev.json
+E:\VS2017\VS2017\RPC\RPC调用\bin\Debug\netcoreapp2.0\RPC调用.dll
+E:\VS2017\VS2017\RPC\RPC调用\obj\Debug\netcoreapp2.0\RPC调用.csprojAssemblyReference.cache
+E:\VS2017\VS2017\RPC\RPC调用\obj\Debug\netcoreapp2.0\RPC调用.csproj.CoreCompileInputs.cache
+E:\VS2017\VS2017\RPC\RPC调用\obj\Debug\netcoreapp2.0\RPC调用.AssemblyInfoInputs.cache
+E:\VS2017\VS2017\RPC\RPC调用\obj\Debug\netcoreapp2.0\RPC调用.AssemblyInfo.cs

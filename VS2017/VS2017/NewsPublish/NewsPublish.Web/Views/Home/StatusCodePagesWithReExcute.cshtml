@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>StatusCodePagesWithReExcute</title>
+</head>
+@model  string
+<body>
+    @if (Model == "404")
+    {
+        <span class="text-danger">StatusCode:@Model not found</span>
+
+    }
+    else if (Model == "500")
+    {
+        <span class="text-danger">StatusCode:@Model Internal Server Error</span>
+    }
+    else
+    {
+       <span class="text-danger">StatusCode:200</span>
+    }
+</body>
+</html>

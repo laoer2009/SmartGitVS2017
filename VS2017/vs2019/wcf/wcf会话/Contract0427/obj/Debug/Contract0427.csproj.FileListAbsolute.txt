@@ -1,0 +1,11 @@
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\Contract0427\bin\Debug\Contract0427.dll
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\Contract0427\bin\Debug\Contract0427.pdb
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\Contract0427\obj\Debug\Contract0427.csprojResolveAssemblyReference.cache
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\Contract0427\obj\Debug\Contract0427.dll
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\Contract0427\obj\Debug\Contract0427.pdb
+E:\VS2017\vs2019\wcf\wcf会话\Contract0427\bin\Debug\Contract0427.dll
+E:\VS2017\vs2019\wcf\wcf会话\Contract0427\bin\Debug\Contract0427.pdb
+E:\VS2017\vs2019\wcf\wcf会话\Contract0427\obj\Debug\Contract0427.csproj.CoreCompileInputs.cache
+E:\VS2017\vs2019\wcf\wcf会话\Contract0427\obj\Debug\Contract0427.dll
+E:\VS2017\vs2019\wcf\wcf会话\Contract0427\obj\Debug\Contract0427.pdb
+E:\VS2017\vs2019\wcf\wcf会话\Contract0427\obj\Debug\Contract0427.csprojAssemblyReference.cache

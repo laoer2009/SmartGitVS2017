@@ -1,0 +1,12 @@
+Warn: 2019-04-20 23:17:20.5415 [8]
+     NLogger.Controllers.HomeController.Index[27]
+     警告日志-----------
+Warn: 2019-04-20 23:17:21.0074 [8]
+     NLogger.Controllers.HomeController.Index[28]
+     Log日志------------------
+Error: 2019-04-20 23:17:21.0605 [8]
+     NLogger.Controllers.HomeController.Index[29]
+     错误日志-----------
+Fatal: 2019-04-20 23:17:21.0916 [8]
+     NLogger.Controllers.HomeController.Index[30]
+     异常日志-----------

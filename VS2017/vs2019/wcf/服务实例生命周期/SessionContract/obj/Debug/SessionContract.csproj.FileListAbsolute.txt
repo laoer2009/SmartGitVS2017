@@ -1,0 +1,11 @@
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\wcf会话管理\SessionContract\bin\Debug\SessionContract.dll
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\wcf会话管理\SessionContract\bin\Debug\SessionContract.pdb
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\wcf会话管理\SessionContract\obj\Debug\SessionContract.dll
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\wcf会话管理\SessionContract\obj\Debug\SessionContract.pdb
+E:\2015传智播客vs2012代码\传智播客视频\wcf模块\wcf会话管理\SessionContract\obj\Debug\SessionContract.csprojResolveAssemblyReference.cache
+E:\VS2017\vs2019\wcf\服务实例生命周期\SessionContract\bin\Debug\SessionContract.dll
+E:\VS2017\vs2019\wcf\服务实例生命周期\SessionContract\bin\Debug\SessionContract.pdb
+E:\VS2017\vs2019\wcf\服务实例生命周期\SessionContract\obj\Debug\SessionContract.csproj.CoreCompileInputs.cache
+E:\VS2017\vs2019\wcf\服务实例生命周期\SessionContract\obj\Debug\SessionContract.dll
+E:\VS2017\vs2019\wcf\服务实例生命周期\SessionContract\obj\Debug\SessionContract.pdb
+E:\VS2017\vs2019\wcf\服务实例生命周期\SessionContract\obj\Debug\SessionContract.csprojAssemblyReference.cache

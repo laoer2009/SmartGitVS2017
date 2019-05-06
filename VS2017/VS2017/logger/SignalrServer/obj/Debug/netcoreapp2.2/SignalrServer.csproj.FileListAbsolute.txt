@@ -1,0 +1,4 @@
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.2\SignalrServer.csprojAssemblyReference.cache
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.2\SignalrServer.csproj.CoreCompileInputs.cache
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.2\SignalrServer.AssemblyInfoInputs.cache
+E:\VS2017\VS2017\logger\SignalrServer\obj\Debug\netcoreapp2.2\SignalrServer.AssemblyInfo.cs
