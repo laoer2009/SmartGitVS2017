@@ -11,6 +11,11 @@ namespace Quartz
     class Program
     {
         //https://www.cnblogs.com/mingmingruyuedlut/p/8037263.html
+
+            /// <summary>
+            /// //////
+            /// </summary>
+            /// <param name="args"></param>
         static void Main(string[] args)
         {
             TestAsyncJob();
