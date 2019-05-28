@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "F:\\SmartGitNew\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "E:\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "F:\\SmartGitNew\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "F:\\SmartGitNew\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "E:\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "F:\\SmartGitNew\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "E:\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\obj\\",
+        "outputPath": "F:\\SmartGitNew\\VS2017\\vs2019\\EFCore\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12993,11 +12993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS2017\\VS2017\\logger\\NLogger\\NLogger.csproj",
+      "projectUniqueName": "F:\\SmartGitNew\\VS2017\\VS2017\\logger\\NLogger\\NLogger.csproj",
       "projectName": "NLogger",
-      "projectPath": "E:\\VS2017\\VS2017\\logger\\NLogger\\NLogger.csproj",
+      "projectPath": "F:\\SmartGitNew\\VS2017\\VS2017\\logger\\NLogger\\NLogger.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "E:\\VS2017\\VS2017\\logger\\NLogger\\obj\\",
+      "outputPath": "F:\\SmartGitNew\\VS2017\\VS2017\\logger\\NLogger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

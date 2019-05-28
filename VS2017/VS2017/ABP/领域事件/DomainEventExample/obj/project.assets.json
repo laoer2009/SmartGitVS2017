@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj",
+      "projectUniqueName": "F:\\SmartGitNew\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj",
       "projectName": "DomainEventExample",
-      "projectPath": "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj",
+      "projectPath": "F:\\SmartGitNew\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\DomainEventExample.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "E:\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\obj\\",
+      "outputPath": "F:\\SmartGitNew\\VS2017\\VS2017\\ABP\\领域事件\\DomainEventExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj": {}
+    "F:\\SmartGitNew\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj": {}
   },
   "projects": {
-    "E:\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj": {
+    "F:\\SmartGitNew\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj",
+        "projectUniqueName": "F:\\SmartGitNew\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj",
         "projectName": "NLog使用",
-        "projectPath": "E:\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj",
+        "projectPath": "F:\\SmartGitNew\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\NLog使用.csproj",
         "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "E:\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\obj\\",
+        "outputPath": "F:\\SmartGitNew\\VS2017\\vs2019\\日志的使用\\NLog\\NLog使用\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

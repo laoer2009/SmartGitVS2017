@@ -12096,11 +12096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS2017\\vs2019\\WebApp1\\WebApp1.csproj",
+      "projectUniqueName": "F:\\SmartGitNew\\VS2017\\vs2019\\WebApp1\\WebApp1.csproj",
       "projectName": "WebApp1",
-      "projectPath": "E:\\VS2017\\vs2019\\WebApp1\\WebApp1.csproj",
+      "projectPath": "F:\\SmartGitNew\\VS2017\\vs2019\\WebApp1\\WebApp1.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "E:\\VS2017\\vs2019\\WebApp1\\obj\\",
+      "outputPath": "F:\\SmartGitNew\\VS2017\\vs2019\\WebApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
