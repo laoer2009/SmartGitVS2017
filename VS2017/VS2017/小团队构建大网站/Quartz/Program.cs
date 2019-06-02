@@ -55,9 +55,8 @@ namespace Quartz
             await sched.ScheduleJob(anotherjob, anothertrigger);
             //主分支 测试记录
             //主分支冲突2
-            // 0528 分支冲突
-            //二次冲突
-            //0528 三次冲突
+            //主分支3
+            //主分支4
         }
     }
 }
