@@ -53,10 +53,8 @@ namespace Quartz
 
             await sched.ScheduleJob(job, trigger);
             await sched.ScheduleJob(anotherjob, anothertrigger);
-
-
-            // 0528分支测试冲突
-           //Eric 冲突
+            //主分支 测试记录
+            //主分支冲突2
         }
     }
 }
